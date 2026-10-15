@@ -29,7 +29,7 @@ Windows 使用 ProxyBridge 配置 Codex 进程代理，以及安卓 v2rayNG 的 
 
 Windows 与 v2rayN 逐步操作教程
 
-GitHub 在线教程与下载：[https://github.com/PanTing424/codex-connectivity-guide](https://github.com/PanTing424/codex-connectivity-guide)
+GitHub 在线教程与下载：[返回个人笔记目录](../README.md)
 
 适用场景：Codex 可以聊天，但在桌面端点击允许远程控制时提示“无法启用远程控制，请重试”；开启 TUN 后反而无法联网。
 
