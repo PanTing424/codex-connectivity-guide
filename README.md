@@ -7,7 +7,7 @@
 | 分类 | 笔记 | 内容 |
 | --- | --- | --- |
 | 软件与网络 | [Codex 电脑与安卓连接排查指南](docs/codex-connectivity-guide.md) | Windows 进程代理、安卓 DNS、手机配对排查与验证边界 |
-| AI 工具与订阅 | [ChatGPT 订阅与管理指南](docs/chatgpt-pro-5x-community-summary.md) | 套餐选择、购买渠道、升级续费、退款与账单排查 |
+| AI 工具与订阅 | [ChatGPT 订阅、支付与使用详解](docs/chatgpt-pro-5x-community-summary.md) | 支付卡种、礼品卡、升级退款、价格额度、VPS、网络与账号使用 |
 
 ## 配套文件
 
