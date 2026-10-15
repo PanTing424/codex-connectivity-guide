@@ -1,0 +1,26 @@
+{
+  "Version": "1.0",
+  "LocalhostViaProxy": false,
+  "IsTrafficLoggingEnabled": true,
+  "ProxyConfigs": [
+    {
+      "Id": 1,
+      "Type": "socks5",
+      "Host": "127.0.0.1",
+      "Port": "10808",
+      "Username": "",
+      "Password": ""
+    }
+  ],
+  "ProxyRules": [
+    {
+      "ProcessName": "ChatGPT.exe;codex.exe",
+      "TargetHosts": "*",
+      "TargetPorts": "*",
+      "Protocol": "TCP",
+      "Action": "PROXY",
+      "IsEnabled": true,
+      "ProxyConfigId": 1
+    }
+  ]
+}
